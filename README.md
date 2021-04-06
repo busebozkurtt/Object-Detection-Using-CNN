@@ -1,7 +1,8 @@
 # Object Detection
 >Use the CNN model to classify objects
+>
+CIFAR10 data set was used in this project. Object detection was performed on this data set using CNN. The aim of the project is to observe the effect of the parameters and methods used in the model on the model accuracy score while object detection. Therefore, various parameters and methods were used in the CNN models created in the project, six models were created to observe the performances. The results of the models are shown as plots and table. Thus, all models are compared.
 
-CIFAR10 data set was used in this project. Object detection was performed on this data set using CNN. While using CNN in the project, many parameters were changed, the model was changed and six models were created to achieve the best performance. The results obtained as a result of the models were shown as plots and shown in a table. Thus, all models are compared.
 
 >Import the required packages
 - numpy 
@@ -24,4 +25,6 @@ CIFAR10 data set was used in this project. Object detection was performed on thi
 
 ## Data Set
 For the data set in the project, https://www.kaggle.com/ was used.
+Data set link used:
+>https://keras.io/api/datasets/cifar10/
 
