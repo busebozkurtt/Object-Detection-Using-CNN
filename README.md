@@ -14,3 +14,5 @@ CIFAR10 data set was used in this project. Object detection was performed on thi
 
 ## Data Set
 For the data set in the project, https://www.kaggle.com/ was used.
+Data set link used:
+>https://www.kaggle.com/uciml/breast-cancer-wisconsin-data
