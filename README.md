@@ -11,8 +11,17 @@ CIFAR10 data set was used in this project. Object detection was performed on thi
 - warnings 
 - keras
 - tensorflow
+- 
+## Content 
+- Preprocess
+- Model building without augmentation, without batch normalization and without dropout.
+- Model bilding without dropout, without batch normalization and with augmentation.
+- Model building without, with batch normalization and with augmentation.
+- Model building with dropout, batch normalization and augmentation.
+- Model building less pooling layer.
+- Model building extra hidden layer.
+- Results
 
 ## Data Set
 For the data set in the project, https://www.kaggle.com/ was used.
-Data set link used:
->https://www.kaggle.com/uciml/breast-cancer-wisconsin-data
+
